@@ -1,5 +1,5 @@
 body {
-    background: url(../img/bg.jpg) no-repeat;
+    background: #fff url(../img/bg.jpg) 0 0 repeat;
     -moz-background-size: 100%;
     -webkit-background-size: 100%; 
     -o-background-size: 100%; 
